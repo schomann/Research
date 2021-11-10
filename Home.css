@@ -46,6 +46,7 @@
 
 .u-section-1 .u-layout-cell-2 {
   min-height: 400px;
+  background-image: none;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -144,7 +145,6 @@
 .u-section-2 .u-image-1 {
   min-height: 315px;
   background-image: url("images/pharmaceutics-13-01321-g002.png");
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -203,6 +203,7 @@
 
 .u-section-2 .u-layout-cell-4 {
   min-height: 315px;
+  background-image: none;
 }
 
 .u-section-2 .u-container-layout-4 {
@@ -218,6 +219,10 @@
   .u-section-2 .u-layout-wrap-1 {
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-2 .u-image-1 {
+    background-position: 50% 50%;
   }
 
   .u-section-2 .u-text-1 {
@@ -320,6 +325,7 @@
 
 .u-section-3 .u-layout-cell-1 {
   min-height: 400px;
+  background-image: none;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -327,8 +333,9 @@
 }
 
 .u-section-3 .u-image-1 {
+  width: 510px;
   height: 322px;
-  margin-top: 39px;
+  margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -387,6 +394,7 @@
 
 .u-section-3 .u-layout-cell-4 {
   min-height: 400px;
+  background-image: none;
 }
 
 .u-section-3 .u-container-layout-4 {
@@ -412,6 +420,7 @@
   }
 
   .u-section-3 .u-image-1 {
+    width: 410px;
     height: 259px;
   }
 
@@ -446,6 +455,7 @@
   }
 
   .u-section-3 .u-image-1 {
+    width: 300px;
     height: 190px;
   }
 
@@ -474,10 +484,6 @@
   .u-section-3 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-3 .u-image-1 {
-    height: 329px;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -509,10 +515,6 @@
     min-height: 239px;
   }
 
-  .u-section-3 .u-image-1 {
-    height: 202px;
-  }
-
   .u-section-3 .u-layout-cell-4 {
     min-height: 239px;
   }
@@ -527,6 +529,7 @@
 
 .u-section-4 .u-layout-cell-1 {
   min-height: 400px;
+  background-image: none;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -657,6 +660,7 @@
 
 .u-section-5 .u-layout-cell-2 {
   min-height: 400px;
+  background-image: none;
 }
 
 .u-section-5 .u-container-layout-2 {
