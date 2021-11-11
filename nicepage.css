@@ -34695,6 +34695,12 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-social-icons-1 {
     margin-right: auto;
   }
+
+  .u-header .u-text-1 {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-bottom: 12px;
+  }
 }
  .u-footer {
   background-image: none;
