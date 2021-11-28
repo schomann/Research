@@ -1,306 +1,171 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 415px;
-  margin-bottom: 0;
+  min-height: 385px;
 }
 
-.u-section-1 .u-gallery-1 {
-  height: 375px;
-  margin: 30px auto -25px 0;
+.u-section-1 .u-list-1 {
+  width: 1140px;
+  margin-bottom: 10px;
+  min-height: 375px;
 }
 
-.u-section-1 .u-gallery-inner-1 {
-  grid-template-columns: auto auto auto;
+.u-section-1 .u-repeater-1 {
+  min-height: 375px;
+  grid-auto-columns: calc(33.3333% - 6.66667px);
+  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+  grid-gap: 10px 10px;
 }
 
-.u-section-1 .u-gallery-item-1 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-1 {
+  background-image: url("images/2013A-960958-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-1 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-2 {
-  margin-right: 10px;
+.u-section-1 .u-image-2 {
+  background-image: url("images/2013B-1-s2.0-S0167488913002747-main-11.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-2 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-3 {
-  margin-right: 10px;
+.u-section-1 .u-image-3 {
+  background-image: url("images/2016A-Article_IsolationExpansionAndNeuralDif-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-3 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-4 {
-  margin-right: 10px;
+.u-section-1 .u-image-4 {
+  background-image: url("images/2016B-schomann2016-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-4 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-5 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-5 {
+  background-image: url("images/2017A-file-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-5 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-6 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-6 {
+  background-image: url("images/2018A-1568414-1.png");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-6 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-7 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-7 {
+  background-image: url("images/2019A-schomann2019-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-7 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-7 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-8 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-8 {
+  background-image: url("images/2019B-s11671-019-2986-y-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-8 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-8 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-9 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-9 {
+  background-image: url("images/2020A-DeAraujoJunior2020_Article_CeramideAndPalmiticAcidInhibit-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-9 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-9 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-10 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-10 {
+  background-image: url("images/2020B-pharmaceutics-12-00193-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-10 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-10 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-11 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-11 {
+  background-image: url("images/2020C-Schomann2020_Article_MultimodalImagingOfHairFollicl-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-11 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-11 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-12 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-12 {
+  background-image: url("images/2021A-1-s2.0-S0142961220308267-main-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-12 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-12 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-13 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-13 {
+  background-image: url("images/2021B-1-s2.0-S0928493120335979-main-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-13 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-13 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-14 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-14 {
+  background-image: url("images/2021C-PIIS0959804921000010-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-14 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-14 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-15 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-15 {
+  background-image: url("images/2021D-DAtri-2021-Nanoghosts-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-15 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-15 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-16 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-16 {
+  background-image: url("images/2021E-molecules-26-03272-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-16 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-16 {
+  padding: 10px;
 }
 
-.u-section-1 .u-gallery-item-17 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-1 .u-image-17 {
+  background-image: url("images/2021F-pharmaceutics-13-01321-v2-1.jpg");
+  background-position: 50% 50%;
 }
 
-.u-section-1 .u-over-slide-17 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-1 .u-gallery-item-18 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-over-slide-18 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-1 .u-gallery-item-19 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-over-slide-19 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-1 .u-gallery-item-20 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-over-slide-20 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-1 .u-gallery-item-21 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-over-slide-21 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-1 .u-gallery-item-22 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-over-slide-22 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-1 .u-gallery-item-23 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-over-slide-23 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-1 .u-gallery-item-24 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-over-slide-24 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-1 .u-gallery-item-25 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-over-slide-25 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-1 .u-gallery-item-26 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-over-slide-26 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-1 .u-gallery-item-27 {
-  margin-right: 10px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-over-slide-27 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
+.u-section-1 .u-container-layout-17 {
+  padding: 10px;
 }
 
 .u-section-1 .u-gallery-nav-1 {
@@ -312,15 +177,53 @@
 
 .u-section-1 .u-gallery-nav-2 {
   position: absolute;
-  right: 10px;
   width: 40px;
   height: 40px;
+  left: auto;
+  top: 168px;
+  right: 10px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-gallery-1 {
-    margin-right: initial;
-    margin-left: initial;
+  .u-section-1 .u-list-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: calc(33.333333333333336% - 6.66667px);
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 6.66667px));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: calc(50% - 5.0000025px);
+    grid-template-columns: repeat(2, calc(50% - 5.0000025px));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: 100%;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 478px;
