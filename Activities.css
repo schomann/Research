@@ -1874,15 +1874,15 @@
 }
 
 .u-section-15 .u-container-layout-2 {
-  padding: 30px;
+  padding: 30px 29px;
 }
 
 .u-section-15 .u-text-1 {
-  margin: 0;
+  margin: 143px 1px 0;
 }
 
 .u-section-15 .u-text-2 {
-  margin: 20px 0 0;
+  margin: 20px 1px 0;
 }
 
 .u-section-15 .u-btn-1 {
@@ -1913,6 +1913,16 @@
 
   .u-section-15 .u-layout-cell-2 {
     min-height: 455px;
+  }
+
+  .u-section-15 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-15 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
