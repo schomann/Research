@@ -1,10 +1,10 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 531px;
+  min-height: 541px;
 }
 
 .u-section-1 .u-text-1 {
   text-transform: uppercase;
-  margin: 20px auto 0;
+  margin: 25px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -14,7 +14,7 @@
 .u-section-1 .u-text-3 {
   line-height: 1.8;
   width: 680px;
-  margin: 20px auto;
+  margin: 20px auto 25px;
 }
 
 @media (max-width: 767px) {
