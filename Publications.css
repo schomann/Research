@@ -324,6 +324,7 @@
 .u-section-2 .u-table-1 {
   margin-bottom: 0;
   margin-top: 0;
+  width: 1145px;
 }
 
 .u-section-2 .u-table-header-1 {
@@ -648,4 +649,28 @@
 
 .u-block-aecc-38 {
   height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-table-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-table-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-table-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-table-1 {
+    width: 340px;
+  }
 }
