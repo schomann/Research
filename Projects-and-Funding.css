@@ -506,6 +506,10 @@
   height: 46px;
 }
 
+.u-section-2 .u-table-body-1 {
+  background-image: none;
+}
+
 .u-section-2 .u-table-cell-1 {
   background-image: none;
   font-weight: 700;

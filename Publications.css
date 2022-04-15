@@ -322,14 +322,17 @@
 }
 
 .u-section-2 .u-table-1 {
-  margin-bottom: 0;
-  margin-top: 0;
   width: 1145px;
+  margin: 0 -2px;
 }
 
 .u-section-2 .u-table-header-1 {
   background-image: none;
   font-weight: 700;
+}
+
+.u-section-2 .u-table-body-1 {
+  background-image: none;
 }
 
 .u-section-2 .u-btn-1 {
@@ -654,6 +657,8 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-table-1 {
     width: 940px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
