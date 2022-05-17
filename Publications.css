@@ -46,7 +46,6 @@
   margin-right: 0;
   margin-top: 0;
   margin-bottom: 0;
-  --effect-scale: 0.25;
   transition-duration: 1.75s;
 }
 
@@ -86,10 +85,10 @@
 
 .u-section-1 .u-carousel-item-6 {
   margin-right: 0;
-  --effect-scale: 0.25;
-  transition-duration: 1.75s;
   margin-top: 0;
   margin-bottom: 0;
+  --effect-scale: 0.25;
+  transition-duration: 1.75s;
 }
 
 .u-section-1 .u-over-slide-6 {
@@ -100,10 +99,10 @@
 
 .u-section-1 .u-carousel-item-7 {
   margin-right: 0;
-  margin-top: 0;
-  margin-bottom: 0;
   --effect-scale: 0.25;
   transition-duration: 1.75s;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-over-slide-7 {
@@ -176,10 +175,6 @@
   transition-duration: 1.75s;
 }
 
-.u-section-1 .u-back-slide-12 {
-  background-image: none;
-}
-
 .u-section-1 .u-over-slide-12 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   transition-duration: 1.5s;
@@ -192,6 +187,10 @@
   margin-bottom: 0;
   --effect-scale: 0.25;
   transition-duration: 1.75s;
+}
+
+.u-section-1 .u-back-slide-13 {
+  background-image: none;
 }
 
 .u-section-1 .u-over-slide-13 {
@@ -298,6 +297,20 @@
   padding: 30px;
 }
 
+.u-section-1 .u-carousel-item-21 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  --effect-scale: 0.25;
+  transition-duration: 1.75s;
+}
+
+.u-section-1 .u-over-slide-21 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  transition-duration: 1.5s;
+  padding: 30px;
+}
+
 .u-section-1 .u-carousel-control-1 {
   position: absolute;
   left: 10px;
@@ -307,9 +320,10 @@
 
 .u-section-1 .u-carousel-control-2 {
   position: absolute;
-  right: 10px;
   width: 40px;
   height: 40px;
+  left: auto;
+  right: 10px;
 }
 
 @media (max-width: 1199px) {
@@ -394,7 +408,6 @@
 
 .u-section-2 .u-table-cell-24 {
   background-image: none;
-  font-weight: 400;
 }
 
 .u-section-2 .u-btn-10 {
@@ -434,6 +447,7 @@
 
 .u-section-2 .u-table-cell-36 {
   background-image: none;
+  font-weight: 400;
 }
 
 .u-section-2 .u-btn-16 {
@@ -737,6 +751,25 @@
 }
 
 .u-section-2 .u-table-cell-132 {
+  background-image: none;
+}
+
+.u-section-2 .u-btn-64 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-65 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-66 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-table-cell-138 {
   background-image: none;
 }
 
