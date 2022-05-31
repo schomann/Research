@@ -59,7 +59,6 @@
   margin-right: 0;
   margin-top: 0;
   margin-bottom: 0;
-  --effect-scale: 0.25;
   transition-duration: 1.75s;
 }
 
@@ -99,10 +98,10 @@
 
 .u-section-1 .u-carousel-item-7 {
   margin-right: 0;
-  --effect-scale: 0.25;
-  transition-duration: 1.75s;
   margin-top: 0;
   margin-bottom: 0;
+  --effect-scale: 0.25;
+  transition-duration: 1.75s;
 }
 
 .u-section-1 .u-over-slide-7 {
@@ -113,10 +112,10 @@
 
 .u-section-1 .u-carousel-item-8 {
   margin-right: 0;
-  margin-top: 0;
-  margin-bottom: 0;
   --effect-scale: 0.25;
   transition-duration: 1.75s;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-over-slide-8 {
@@ -189,10 +188,6 @@
   transition-duration: 1.75s;
 }
 
-.u-section-1 .u-back-slide-13 {
-  background-image: none;
-}
-
 .u-section-1 .u-over-slide-13 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   transition-duration: 1.5s;
@@ -205,6 +200,10 @@
   margin-bottom: 0;
   --effect-scale: 0.25;
   transition-duration: 1.75s;
+}
+
+.u-section-1 .u-back-slide-14 {
+  background-image: none;
 }
 
 .u-section-1 .u-over-slide-14 {
@@ -306,6 +305,20 @@
 }
 
 .u-section-1 .u-over-slide-21 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  transition-duration: 1.5s;
+  padding: 30px;
+}
+
+.u-section-1 .u-carousel-item-22 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  --effect-scale: 0.25;
+  transition-duration: 1.75s;
+}
+
+.u-section-1 .u-over-slide-22 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   transition-duration: 1.5s;
   padding: 30px;
@@ -427,7 +440,6 @@
 
 .u-section-2 .u-table-cell-30 {
   background-image: none;
-  font-weight: 400;
 }
 
 .u-section-2 .u-btn-13 {
@@ -467,6 +479,7 @@
 
 .u-section-2 .u-table-cell-42 {
   background-image: none;
+  font-weight: 400;
 }
 
 .u-section-2 .u-btn-19 {
@@ -770,6 +783,25 @@
 }
 
 .u-section-2 .u-table-cell-138 {
+  background-image: none;
+}
+
+.u-section-2 .u-btn-67 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-68 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-69 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-table-cell-144 {
   background-image: none;
 }
 
