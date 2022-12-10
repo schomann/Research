@@ -365,6 +365,19 @@
   padding: 30px;
 }
 
+.u-section-1 .u-carousel-item-26 {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  transition-duration: 1.75s;
+}
+
+.u-section-1 .u-over-slide-26 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  transition-duration: 1.5s;
+  padding: 30px;
+}
+
 .u-section-1 .u-carousel-control-1 {
   position: absolute;
   left: 10px;
@@ -537,7 +550,6 @@
 
 .u-section-2 .u-table-cell-48 {
   background-image: none;
-  font-weight: 400;
 }
 
 .u-section-2 .u-btn-22 {
@@ -577,6 +589,7 @@
 
 .u-section-2 .u-table-cell-60 {
   background-image: none;
+  font-weight: 400;
 }
 
 .u-section-2 .u-btn-28 {
@@ -880,6 +893,25 @@
 }
 
 .u-section-2 .u-table-cell-156 {
+  background-image: none;
+}
+
+.u-section-2 .u-btn-76 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-77 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-78 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-table-cell-162 {
   background-image: none;
 }
 
