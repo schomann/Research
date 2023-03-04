@@ -200,7 +200,7 @@
 
 .u-section-2 .u-table-1 {
   width: 1179px;
-  margin: 0 0 16px auto;
+  margin: 0 -39px 16px auto;
 }
 
 .u-block-9336-10 {
@@ -555,6 +555,7 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-table-1 {
     width: 940px;
+    margin-right: 0;
   }
 }
 
