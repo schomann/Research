@@ -1,3 +1,7 @@
+ .u-section-1 {
+  background-image: none;
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 50px;
 }
@@ -656,7 +660,11 @@
   .u-section-5 .u-layout-cell-1 {
     min-height: 196px;
   }
-}.u-section-6 .u-sheet-1 {
+} .u-section-6 {
+  background-image: none;
+}
+
+.u-section-6 .u-sheet-1 {
   min-height: 375px;
 }
 
